@@ -1,5 +1,5 @@
 # docker-selenium-lambda
-
+Can be deployed to AWS Lambda with sls deploy
 
 This is minimum demo of headless chrome and selenium on container image on AWS Lambda for renfe.com
 
